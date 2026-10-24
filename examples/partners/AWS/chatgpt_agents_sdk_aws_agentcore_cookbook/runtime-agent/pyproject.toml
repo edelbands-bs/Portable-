@@ -17,7 +17,7 @@ dependencies = [
 dev = [
   "ipykernel==7.3.0",
   "jupyterlab==4.6.2",
-  "nbconvert==7.17.1",
+  "nbconvert==7.17.2",
   "nbformat==5.10.4",
   "pip-audit==2.10.1",
   "pyright==1.1.409",
